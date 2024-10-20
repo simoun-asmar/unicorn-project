@@ -6,4 +6,4 @@ Explore the interactive Tableau dashboard to dive deeper into the analysis:
 - 🖥️  [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/simoun.asmar/viz/Book1_17280375938130/Dashboard1)
 
 ### 📄 Insights & Recommendations
-For detailed insights and recommendations, please check the **Unicorn-Insight-Recommendations.pdf** file inside the `tableau_dashboard` folder in this repository.
+For detailed insights and recommendations, please check the **Unicorn-Insight-Recommendations.pdf** file inside the folder.
