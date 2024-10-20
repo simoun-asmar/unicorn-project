@@ -2,4 +2,5 @@
 
 Explore how data was analyzed step-by-step using advanced spreadsheet functions to answer critical business questions. This comprehensive guide will walk you through each stage of the analysis.
 
-- 📄 **Need the full breakdown?** [Click here to download the Spreadsheet Documentation PDF](spreadsheets/Unicorn-Spreadsheets.pdf)
+- 📄 **Need the full breakdown?** [Click here to download the Spreadsheet Documentation PDF](unicorn-project/spreadsheets
+/Unicorn-Spreadsheets.pdf)
