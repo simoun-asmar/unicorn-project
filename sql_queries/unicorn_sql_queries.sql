@@ -1,9 +1,10 @@
 /*Question#1: How many customers do we have in the data?*/
 
 SELECT
-			COUNT(DISTINCT customer_id)
+	COUNT(DISTINCT customer_id)
       
-FROM customers
+FROM 
+	customers
 ;
 
 /*Question#2: What was the city with the most profit for the company in 2015?*/
