@@ -8,6 +8,7 @@ This project includes SQL queries, spreadsheet analysis, and a Tableau dashboard
 Explore the SQL queries used to answer key business questions, such as total sales by region and top-performing products.
 
 - **Data Source**: [PostgreSQL Database](postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn)
+- **Connection URL**: `postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn`
 - 📄 [SQL Queries](sql_queries/unicorn_sql_queries.sql)
 
 ### 2. ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) Spreadsheet Analysis
