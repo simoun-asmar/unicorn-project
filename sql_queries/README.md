@@ -10,5 +10,3 @@ Want to dive into the data yourself? Use the following PostgreSQL connection URL
 ### 📝 SQL Queries
 Check out the detailed SQL queries that helped uncover insights like sales by region, top products, and more.
 
-- 📄 [SQL Queries](sql_queries/unicorn_sql_queries.sql)
-
