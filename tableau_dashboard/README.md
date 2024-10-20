@@ -1,10 +1,5 @@
 ## ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) Unicorn Project - Tableau Dashboard
 
-### 📊 Key Insights
-This PDF contains detailed insights and recommendations based on the Tableau dashboard analysis.
-
-- 📄 [Download the Tableau Insights Documentation PDF](tableau_insights_documentation.pdf)
-
 ### 📊 Interactive Dashboard
 Explore the interactive Tableau dashboard to dive deeper into the analysis:
 
