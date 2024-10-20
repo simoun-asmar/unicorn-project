@@ -14,12 +14,12 @@ Explore the SQL queries used to answer key business questions, such as total sal
 ### 2. ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) Spreadsheet Analysis
 Analyze the data using spreadsheet functions and review the steps taken to solve key business questions. Download the detailed PDF for full documentation.
 
-- 📄 [Download Spreadsheet Documentation](spreadsheets/Unicorn-Spreadsheets.pdf)
+- 📄 [Check Spreadsheet Documentation](spreadsheets/Unicorn-Spreadsheets.pdf)
 
 ### 3. ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) Tableau Dashboard
 Explore key insights and recommendations through the interactive Tableau dashboard. You can also download the full documentation with insights and recommendations.
 
-- 📄 [Download Tableau Insights Documentation](tableau_dashboard/Unicorn-Insight-Recommendations.pdf)
+- 📄 [Check Tableau Insights Documentation](tableau_dashboard/Unicorn-Insight-Recommendations.pdf)
 - 📊 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/simoun.asmar/viz/Book1_17280375938130/Dashboard1)
 
 ---
