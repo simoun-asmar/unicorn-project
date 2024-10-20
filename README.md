@@ -19,7 +19,7 @@ Analyze the data using spreadsheet functions and review the steps taken to solve
 ### 3. ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) Tableau Dashboard
 Explore key insights and recommendations through the interactive Tableau dashboard. You can also download the full documentation with insights and recommendations.
 
-- 📄 [Download Tableau Insights Documentation](tableau_dashboard/tableau_insights_documentation.pdf)
+- 📄 [Download Tableau Insights Documentation](tableau_dashboard/Unicorn-Insight-Recommendations.pdf)
 - 📊 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/simoun.asmar)
 
 ---
