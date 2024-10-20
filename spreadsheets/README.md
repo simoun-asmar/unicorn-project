@@ -2,5 +2,5 @@
 
 This PDF contains detailed steps for answering business questions using spreadsheet analysis.
 
-- [Download the Spreadsheet Documentation PDF](spreadsheet_documentation.pdf)
+- [Download the Spreadsheet Documentation PDF](spreadsheets/Unicorn-Spreadsheets.pdf)
 
