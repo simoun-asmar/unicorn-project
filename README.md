@@ -1,6 +1,6 @@
 # 🦄 Unicorn Project
 
-This project includes SQL queries, spreadsheet analysis, and a Tableau dashboard created to explore and answer key business questions using the Unicorn dataset.
+This project includes SQL queries, spreadsheet analysis, and a Tableau dashboard created to explore and answer key business questions using the Unicorn dataset, discovering insights and providing recommendations.
 
 ## 📂 Project Components
 
