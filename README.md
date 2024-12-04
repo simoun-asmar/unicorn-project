@@ -20,7 +20,7 @@ Analyze the data using spreadsheet functions and review the steps taken to solve
 Explore key insights and recommendations through the interactive Tableau dashboard. You can also download the full documentation with insights and recommendations.
 
 - 📄 [Check out Tableau Insights Documentation](tableau_dashboard/Unicorn-Insight-Recommendations.pdf)
-- 📊 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/simoun.asmar/viz/Book1_17280375938130/Dashboard1)
+- 📊 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/simoun.asmar/viz/UnicornBusinessPerformanceDashboard1/Dashboard1)
 
 ---
 
